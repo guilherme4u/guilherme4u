@@ -15,7 +15,7 @@ I'm 20 years old, I live in São Paulo - Brasil, I study Systems Analysis and De
 <code><img width="40px" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title = "Python"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title = "React"/></code> 
 
-contact: `contato.guiolivrdev@outlook.com` or [Discord](https://discordapp.com/users/807292031272484904)
+contact: `contato.guiolivrdev@outlook.com` or [Discord](https://discord.com/channels/@me/1415910193639981228)
 
 <div align="center">
   <a href="https://github.com/guilherme4u">
