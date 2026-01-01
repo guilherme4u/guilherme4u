@@ -7,7 +7,7 @@ Guilherme
 Hello,
 I am Guilherme
 <br>
-I'm 20 years old, I live in São Paulo - Brasil, I study Systems Analysis and Development at [Faculdade Anhanguera](https://www.anhanguera.com/) and I'm passionate about programming and technology! I'm a beginner in the universe of programming, I focus on front-end development. Also check my [Linkedin](https://www.linkedin.com/in/guilherme-oliveira-2a8a44259/).
+I'm 21 years old, I live in São Paulo - Brasil, I study Systems Analysis and Development at [Faculdade Anhanguera](https://www.anhanguera.com/) and I'm passionate about programming and technology! I'm a beginner in the universe of programming, I focus on front-end development. Also check my [Linkedin](https://www.linkedin.com/in/guilherme-oliveira-2a8a44259/).
 
 ### > Programming languages I love to work in
 
